@@ -3,6 +3,10 @@
 A small Blender add-on for cycling through the cameras in a scene and toggling
 camera-view lock, without leaving the 3D viewport.
 
+![CamCycler moves through the cameras surrounding a Blender scene with the Shift plus Numpad 0 shortcut](docs/images/camcycler.png)
+
+*Step through every scene camera from the viewport, then toggle camera-to-view locking when you need to reframe a shot.*
+
 Requires Blender 3.0 or newer.
 
 ## What it does
