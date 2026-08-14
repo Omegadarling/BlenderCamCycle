@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="docs/images/icon.webp" width="144" alt="CamCycler app icon">
+</p>
+
 # CamCycler
 
 A small Blender add-on for cycling through the cameras in a scene and toggling
