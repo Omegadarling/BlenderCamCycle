@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/images/icon.webp" width="144" alt="CamCycler app icon">
+  <img src="docs/images/icon.webp" width="200" alt="CamCycler app icon showing three camera views of the same subject">
 </p>
 
 # CamCycler
@@ -7,9 +7,11 @@
 A small Blender add-on for cycling through the cameras in a scene and toggling
 camera-view lock, without leaving the 3D viewport.
 
-![CamCycler moves through the cameras surrounding a Blender scene with the Shift plus Numpad 0 shortcut](docs/images/camcycler.png)
+## In Blender
 
-*Step through every scene camera from the viewport, then toggle camera-to-view locking when you need to reframe a shot.*
+![Blender 5.1 in camera view with Camera B Close selected in the Outliner after CamCycler advanced from Camera A](docs/images/blender-screenshot.png)
+
+*Actual Blender capture after **Next Camera** advanced from `Camera_A_Wide` to `Camera_B_Close`; the viewport entered that camera and the Outliner shows the active camera.*
 
 Requires Blender 3.0 or newer.
 
