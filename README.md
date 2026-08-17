@@ -9,6 +9,12 @@ camera-view lock, without leaving the 3D viewport.
 
 ## In Blender
 
+![Animated Blender demonstration of CamCycler advancing from Camera A Wide to Camera B Close and Camera C High when Shift plus Numpad 0 is pressed](https://raw.githubusercontent.com/Omegadarling/BlenderCamCycle/main/docs/images/camcycler-demo.gif?v=1)
+
+*Press **Shift + Numpad 0** to advance through the scene cameras without leaving the 3D viewport. The Blender views and changing active camera in the Outliner are genuine captures; only the labeled hotkey overlay and transitions are composited.*
+
+### Static capture
+
 ![Blender 5.1 in camera view with Camera B Close selected in the Outliner after CamCycler advanced from Camera A](https://raw.githubusercontent.com/Omegadarling/BlenderCamCycle/main/docs/images/blender-screenshot.png)
 
 *Actual Blender capture after **Next Camera** advanced from `Camera_A_Wide` to `Camera_B_Close`; the viewport entered that camera and the Outliner shows the active camera.*
