@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/images/icon.webp" width="200" alt="CamCycler app icon showing three camera views of the same subject">
+  <img src="https://raw.githubusercontent.com/Omegadarling/BlenderCamCycle/main/docs/images/icon.webp" width="200" alt="CamCycler app icon showing three camera views of the same subject">
 </p>
 
 # CamCycler
@@ -9,7 +9,7 @@ camera-view lock, without leaving the 3D viewport.
 
 ## In Blender
 
-![Blender 5.1 in camera view with Camera B Close selected in the Outliner after CamCycler advanced from Camera A](docs/images/blender-screenshot.png)
+![Blender 5.1 in camera view with Camera B Close selected in the Outliner after CamCycler advanced from Camera A](https://raw.githubusercontent.com/Omegadarling/BlenderCamCycle/main/docs/images/blender-screenshot.png)
 
 *Actual Blender capture after **Next Camera** advanced from `Camera_A_Wide` to `Camera_B_Close`; the viewport entered that camera and the Outliner shows the active camera.*
 
